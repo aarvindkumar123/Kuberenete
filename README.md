@@ -1,4 +1,4 @@
-# oreilly-docker-java-shopping
+# oreilly-docker-java-UserApp
 
 **Dec 2021: Please note this repo contains frameworks, libraries, and config that are now deprecated (and may have security issues etc). Consider the examples fit for educational use only! Updating all this would require a substantial re-write, and it would probably warrent another version of the book being published**
 
